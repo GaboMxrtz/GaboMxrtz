@@ -6,6 +6,7 @@
 - 🐦 Twitter: @GaboMxrtz
 - 🔩 Discord: GaboMxrtz#5799
 - 🎮 Perfil de Xbox: GaboMxrtz
+
 (Creo que tengo ese nombre en literalmente todo...)
 
 <!---
