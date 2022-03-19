@@ -1,13 +1,13 @@
-- 👋 Hola! Soy GaboMxrtz, pero me conocen más en Internet como Gabo.
-- 💻 Soy un programador novato que hace Bots en Discord para el entretenimiento de un servidor.
-- 🚀 Estoy aprendiendo más de JavaScript.
+# ⭐ Acerca de mí
+Soy GaboMxrtz, más conocido como simplemente Gabo. Paso la mayor parte del día en Discord, me gusta programar y ayudar a los demás con proyectos.
 
-- ⭐ Puedes encontrarme en mis diferentes redes sociales:
-- 🐦 Twitter: @GaboMxrtz
-- 🔩 Discord: GaboMxrtz#5799
-- 🎮 Perfil de Xbox: GaboMxrtz
+- 🦔 Moderador y administrador de Discord con experiencia.
+- ☕ Simplemente programo por diversión.
 
-(Creo que tengo ese nombre en literalmente todo...)
+# 🌈 Trabajando actualmente en
 
-<!---
-Busco amigos, xd.--->
+- Hacer mi propio bot de Discord.
+
+# 🔗 Mis redes
+- 🚀 Mi Discord: GaboMxrtz#5799
+- 🐦 [Twitter](https://twitter.com/GaboMxrtz)
